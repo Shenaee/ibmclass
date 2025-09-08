@@ -1,1 +1,2 @@
+fork mode (keep stderr/stdout open in nofork mode)
 
